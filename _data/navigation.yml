@@ -19,3 +19,8 @@ main-sidebar:
     children:
     - title: "vs code"
     - url: "/Tools/vs-code"
+  - title: "OS"
+    url: "/OS/"
+    children:
+    - title: "Unix/Linux"
+    - url: "/OS/Unix-Linux"
