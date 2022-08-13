@@ -23,3 +23,5 @@ main-sidebar:
     url: "/Regex"
   - title: "Code Convention"
     url: "/code-convention"
+  - title: "PowerShell"
+    url: "/PowerShell"
