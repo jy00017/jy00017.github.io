@@ -1,3 +1,10 @@
+---
+title:  "Regex(정규표현식) 기본"
+date: 2022-07-04
+categories: ['Regex']
+tags: ['Regex']
+---
+
 # Regex or Regexp(정규표현식)이란?
 특정한 규칙을 가진 문자열의 집합을 표현하는데 사용하는 언어
 

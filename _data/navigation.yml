@@ -13,14 +13,13 @@ main:
 
   # main sidebar links
   # title, url, children으로 구성
+  # FIXME: 현재는 우선 children url은 사용하지 않고 추후 개선 예정
 main-sidebar:
   - title: "Tools"
     url: "/Tools/"
-    children:
-    - title: "vs code"
-    - url: "/Tools/vs-code"
-  - title: "OS"
-    url: "/OS/"
-    children:
-    - title: "Unix/Linux"
-    - url: "/OS/Unix-Linux"
+  - title: "Unix/Linux"
+    url: "/Unix-Linux"
+  - title: "Regex"
+    url: "/Regex"
+  - title: "Code Convention"
+    url: "/code-convention"

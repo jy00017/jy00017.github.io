@@ -1,8 +1,20 @@
-# 필요성
-
+---
+title:  "커밋 메세지 규약(스타일) 가이드"
+date: 2022-07-04
+categories: ['code-convention']
+tags: ['commmit', 'convention']
+---
 # 목적
+commit 메세지만으로도 손쉽게 이력 추적을 하기 쉽게 하기 위함
 
 # 메시지 구조
+```
+type: Subject
+
+body
+
+footer
+```
 
 ## 제목(Subject)
 ### type 종류
