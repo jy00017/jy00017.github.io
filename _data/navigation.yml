@@ -25,3 +25,5 @@ main-sidebar:
     url: "/code-convention"
   - title: "PowerShell"
     url: "/PowerShell"
+  - title: "unclassified-label"
+    url: "/unclassified-label"
